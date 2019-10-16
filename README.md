@@ -17,3 +17,5 @@ Happy hacking!
 <del>Thanks for more than 140 pull-requests</del>
 
 Thanks for more than 250 pull-requests. That's crazy!
+
+Happy hacking. 
